@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Football World Cup Score Board": {
+      "commandName": "Project",
+      "jsWebView2Debugging": false,
+      "sqlDebugging": false,
+      "remoteDebugEnabled": false,
+      "nativeDebugging": false
+    }
+  }
+}
