@@ -116,10 +116,11 @@ namespace FootballWorldCupScoreBoardTest
             Assert.True(sortedGames[1] == game1);
             Assert.True(sortedGames[2] == game3);
 
+            board.FinishGame(game3);
+
             sortedGames = board.GetSummary();
 
-            board.FinishGame(game3);
-            Assert.True(sortedGames.Count == 3);
+            Assert.True(sortedGames.Count == 2);
         }
 
 
