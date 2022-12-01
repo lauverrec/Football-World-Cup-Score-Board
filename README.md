@@ -1,5 +1,5 @@
 # Football-World-Cup-Score-Board
 
-Este ejercicio contiene dos clases, uno para crear los partidos con los métodos necesarios que han sido descritos en los requisitios y otra clase para crear el tablero con los partidos y sus puntuaciones, esta también contiene dos métodos para la forma de mostrar el tablero que se pide.
+In this technical test, I assumed that the board will show the games/matches that it has been added, but it hasn't started and the games/matches have started, too.
 
-En el program nos encontramos el ejemplo descrito en los requisitos.
+I have added some units test.
