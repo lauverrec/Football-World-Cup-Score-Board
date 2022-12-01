@@ -1,0 +1,12 @@
+C:\Users\Laura\source\repos\Football-World-Cup-Score-Board\FootballWorldCupScoreBoard\bin\Debug\net6.0\FootballWorldCupScoreBoard.deps.json
+C:\Users\Laura\source\repos\Football-World-Cup-Score-Board\FootballWorldCupScoreBoard\bin\Debug\net6.0\FootballWorldCupScoreBoard.dll
+C:\Users\Laura\source\repos\Football-World-Cup-Score-Board\FootballWorldCupScoreBoard\bin\Debug\net6.0\FootballWorldCupScoreBoard.pdb
+C:\Users\Laura\source\repos\Football-World-Cup-Score-Board\FootballWorldCupScoreBoard\obj\Debug\net6.0\FootballWorldCupScoreBoard.csproj.AssemblyReference.cache
+C:\Users\Laura\source\repos\Football-World-Cup-Score-Board\FootballWorldCupScoreBoard\obj\Debug\net6.0\FootballWorldCupScoreBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laura\source\repos\Football-World-Cup-Score-Board\FootballWorldCupScoreBoard\obj\Debug\net6.0\FootballWorldCupScoreBoard.AssemblyInfoInputs.cache
+C:\Users\Laura\source\repos\Football-World-Cup-Score-Board\FootballWorldCupScoreBoard\obj\Debug\net6.0\FootballWorldCupScoreBoard.AssemblyInfo.cs
+C:\Users\Laura\source\repos\Football-World-Cup-Score-Board\FootballWorldCupScoreBoard\obj\Debug\net6.0\FootballWorldCupScoreBoard.csproj.CoreCompileInputs.cache
+C:\Users\Laura\source\repos\Football-World-Cup-Score-Board\FootballWorldCupScoreBoard\obj\Debug\net6.0\FootballWorldCupScoreBoard.dll
+C:\Users\Laura\source\repos\Football-World-Cup-Score-Board\FootballWorldCupScoreBoard\obj\Debug\net6.0\refint\FootballWorldCupScoreBoard.dll
+C:\Users\Laura\source\repos\Football-World-Cup-Score-Board\FootballWorldCupScoreBoard\obj\Debug\net6.0\FootballWorldCupScoreBoard.pdb
+C:\Users\Laura\source\repos\Football-World-Cup-Score-Board\FootballWorldCupScoreBoard\obj\Debug\net6.0\ref\FootballWorldCupScoreBoard.dll
