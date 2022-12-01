@@ -63,9 +63,9 @@ namespace FootballWorldCupScoreBoard
         public List<Game> GetSummary()
         {
             var sortedGames = from game in Games orderby game.Value ascending select game.Key;
-            var games = sortedGames.ToList().FindAll(g => g.State != Game.GameState.Finished);
+            var result = sortedGames.ToList().FindAll(g => g.State != Game.GameState.Finished);
 
-            return sortedGames.ToList();
+            return result;
         }
 
         private bool checkGame(Game game)
